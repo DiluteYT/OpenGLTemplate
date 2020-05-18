@@ -5,7 +5,7 @@ int main(void)
 {
     GLFWwindow* window;
 
-    /* Initialize the library */
+    /* Initialize glfw and check for errors */
     if (!glfwInit())
         return -1;
 
@@ -20,6 +20,7 @@ int main(void)
     /* Make the window's context current */
     glfwMakeContextCurrent(window);
 
+    /* Initialize glew and check for errors */
     if (glewInit() != GLEW_OK)
         return -1;
 
