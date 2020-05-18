@@ -1,4 +1,7 @@
 Thanks for using my OpenGL C++ template! 
+I have no experience making tools for Linux or
+Mac, so im afraid this is made for Windows without
+consideration for other platforms.
 
 Ive automatically linked up GLFW and GLEW to the solution. you can find those in
 Dependencies/$(PlatformTarget)
