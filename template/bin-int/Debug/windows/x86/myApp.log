@@ -1,0 +1,24 @@
+﻿  Main.cpp
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\wheni\Desktop\Stuff\Coding\C++\OpenGLTemplate\template\bin\Debug\windows\x86\vc120.pdb'; linking object as if no debug info
+  myApp.vcxproj -> C:\Users\wheni\Desktop\Stuff\Coding\C++\OpenGLTemplate\template\myApp\..\bin\Debug\windows\x86\myApp.exe
+  
+  -------------------------------------------------------------------------------
+     ROBOCOPY     ::     Robust File Copy for Windows                              
+  -------------------------------------------------------------------------------
+  
+    Started : Monday, May 18, 2020 5:43:09 PM
+     Source : C:\Users\wheni\Desktop\Stuff\Coding\C++\OpenGLTemplate\template\myApp\res\
+       Dest : C:\Users\wheni\Desktop\Stuff\Coding\C++\OpenGLTemplate\template\bin\Debug\windows\x86\res\
+  
+      Files : *.*
+  	    
+    Options : *.* /S /E /COPYALL /IM /R:1000000 /W:30 
+  
+  ------------------------------------------------------------------------------
+  
+  2020/05/18 17:43:09 ERROR 2 (0x00000002) Accessing Source Directory C:\Users\wheni\Desktop\Stuff\Coding\C++\OpenGLTemplate\template\myApp\res\
+  The system cannot find the file specified.
+  
+  Press any key to continue . . . 

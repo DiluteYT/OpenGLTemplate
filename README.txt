@@ -1,4 +1,7 @@
 Thanks for using my OpenGL C++ template! 
+I have no experience making tools for Linux or
+Mac, so im afraid this is made for Windows without
+consideration for other platforms.
 
 I assume a intermediate level of computer knowledge and programming knowledge from you,
 but thats not strictly required.
