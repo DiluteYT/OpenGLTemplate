@@ -1,0 +1,32 @@
+﻿  Main.cpp
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\wheni\Desktop\Stuff\Coding\C++\OpenGLTemplate\bin\Debug\windows\x86\vc120.pdb'; linking object as if no debug info
+  myApp.vcxproj -> C:\Users\wheni\Desktop\Stuff\Coding\C++\OpenGLTemplate\myApp\..\bin\Debug\windows\x86\myApp.exe
+  
+  -------------------------------------------------------------------------------
+     ROBOCOPY     ::     Robust File Copy for Windows                              
+  -------------------------------------------------------------------------------
+  
+    Started : Monday, May 18, 2020 4:24:39 PM
+     Source : C:\Users\wheni\Desktop\Stuff\Coding\C++\OpenGLTemplate\myApp\res\
+       Dest : C:\Users\wheni\Desktop\Stuff\Coding\C++\OpenGLTemplate\bin\Debug\windows\x86\res\
+  
+      Files : *.*
+  	    
+    Options : *.* /S /E /COPYALL /IM /R:1000000 /W:30 
+  
+  ------------------------------------------------------------------------------
+  
+  	  New Dir          0	C:\Users\wheni\Desktop\Stuff\Coding\C++\OpenGLTemplate\myApp\res\
+  
+  ------------------------------------------------------------------------------
+  
+                 Total    Copied   Skipped  Mismatch    FAILED    Extras
+      Dirs :         1         1         0         0         0         0
+     Files :         0         0         0         0         0         0
+     Bytes :         0         0         0         0         0         0
+     Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+     Ended : Monday, May 18, 2020 4:24:39 PM
+  
+  Press any key to continue . . . 
