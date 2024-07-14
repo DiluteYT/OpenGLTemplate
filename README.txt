@@ -28,8 +28,3 @@ https://superuser.com/questions/1074835/make-visual-studio-solution-filessln-alw
 I also have added Main.cpp in src with the contents being the basic window 
 generation code for glfw and glew.
 
-If you find any bugs or issues, or have any suggestions, please dont hesitate to
-contact me.
-Discord: Dilute#4192
-Gmail: wheniswhat2004@gmail.com
-
